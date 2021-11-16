@@ -1,6 +1,6 @@
 # <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm RANA ABOBAKAR</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Shahzaib Ishaq</h1>
 <h3 align="center">I'm a passionate Back-end Developer from Pakistan.</h3>
 
 
@@ -73,5 +73,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abobakar-it">
 </a>
-<a href="https://github.com/abobakar-it?tab=followers"><img src="https://img.shields.io/github/followers/abobakar-it?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sh4hzaib?tab=followers"><img src="https://img.shields.io/github/followers/sh4hzaib?label=Followers&style=social" alt="GitHub Badge"></a>
 
