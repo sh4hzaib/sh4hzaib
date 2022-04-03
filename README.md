@@ -1,18 +1,18 @@
 # <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Shahzaib Ishaq</h1>
-<h3 align="center">I'm a passionate Back-end Developer from Pakistan.</h3>
+<h3 align="center">I'm a passionate FullStack Developer from Pakistan.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Node.js**
+- 🔭 I’m currently working on **Javascript Stack**
 
-- 🌱 I’m currently learning **Node.js Express.js Mongodb SQL**
+- 🌱 I’m currently learning **Typescript, Artificial, Intelligence Cyber Security,**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 **[My Portfolio](https://ezifolio.com/public/RanaAbobakar)**
+- 👨‍💻 **[My Portfolio](https://www.linkedin.com/in/muhammad-shahzaib-ishaq/)**
 
 - 📫 How to reach me **shahzaibishaq23@gmail.com**
 
@@ -37,15 +37,15 @@
 
 <p align="center">
     <a href="https://github.com/sh4hzaib/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shahzaib streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abobakar-it&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="shahzaib streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sh4hzaib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/abobakar-it/github-readme-stats"><img alt="abobakar-it Github Stats" src="https://github-readme-stats.vercel.app/api?username=abobakar-it&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/abobakar-it/github-readme-stats"><img alt="abobakar-it Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abobakar-it&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/sh4hzaib/github-readme-stats"><img alt="sh4hzaib Github Stats" src="https://github-readme-stats.vercel.app/api?username=sh4hzaib-it&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sh4hzaib/github-readme-stats"><img alt="sh4hzaib Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH4HZAIB&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -55,23 +55,23 @@
 
 
 
-<a href="https://github.com/abobakar-it/github-readme-activity-graph"><img alt="abobakar-it Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abobakar-it&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sh4hzaib/github-readme-activity-graph"><img alt="sh4hzaib Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sh4hzaib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abobakar-it" alt="abobakar-it" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sh4hzaib" alt="sh4hzaib" /></a> </p>
 ## Connect with me:
 <p align="left">
 
-<a href="https://linkedin.com/in/rana-abobakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rana-abobakar" height="30" width="40" /></a>
-<a href="https://dev.to/rana_abobakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rana_abobakar" height="30" width="40" /></a>
-<a href="https://instagram.com/ranaabobakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranaabobakar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-shahzaib-ishaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sh4hzaib" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/rana_abobakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rana_abobakar" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/ranaabobakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranaabobakar" height="30" width="40" /></a> -->
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abobakar-it">
+    <img src="https://komarev.com/ghpvc/?username=sh4hzaib">
 </a>
 <a href="https://github.com/sh4hzaib?tab=followers"><img src="https://img.shields.io/github/followers/sh4hzaib?label=Followers&style=social" alt="GitHub Badge"></a>
 
