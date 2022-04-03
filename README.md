@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Javascript Stack**
+- 🔭 I’m currently working on **Javascript Stack && React-Native** 
 
 - 🌱 I’m currently learning **Typescript, Artificial, Intelligence Cyber Security,**
 
